@@ -1,10 +1,9 @@
 #!/usr/bin/python3
-
-import math
-import random
+"""Using if else statement to print weird and Not Weird"""
 
 
 def weird(n):
+    """A function to print based on conditions"""
     if n < 1:
         pass
     elif n % 2 != 0:
@@ -19,7 +18,7 @@ def weird(n):
         pass
     else:
         print("Not Weird")
-
-
+        
+"""generating random values and storing as n"""
 n = int(input())
 weird(n)
