@@ -18,4 +18,6 @@
 
 0x08-runner_up.py - Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given scores. Store them in a list and find the score of the runner-up.
 
-0x09-nested_loop.py - Given the names and grades for each student in a class of students, store them in a nested list and print the name(s) of any student(s) having the second lowest grade. Note: If there are multiple students with the second lowest grade, order their names alphabetically and print each name on a new line.
+0x09-nested_lists.py - Given the names and grades for each student in a class of students, store them in a nested list and print the name(s) of any student(s) having the second lowest grade. Note: If there are multiple students with the second lowest grade, order their names alphabetically and print each name on a new line.
+
+0x10-find_percentage.py- The provided code stub will read in a dictionary containing key/value pairs of name:[marks] for a list of students. Print the average of the marks array for the student name provided, showing 2 places after the decimal.
