@@ -13,3 +13,5 @@
 0x05-leap_year.py - An extra day is added to the calendar almost every four years as February 29, and the day is called a leap day. It corrects the calendar for the fact that our planet takes approximately 365.25 days to orbit the sun. A leap year contains a leap day. In the Gregorian calendar, three conditions are used to identify leap years: The year can be evenly divided by 4, is a leap year, unless: The year can be evenly divided by 100, it is NOT a leap year, unless: The year is also evenly divisible by 400. Then it is a leap year.
 
 0x06-print_string.py The included code stub will read an integer, n, from STDIN. Without using any string methods, try to print the following: 123...n. Note that "..." represents the consecutive values in between.
+
+0x07-list_comprehension.py - Let's learn about list comprehensions! You are given three integers x, y and z representing the dimensions of a cuboid along with an integer n. Print a list of all possible coordinates given by (i, j, k) on a 3D grid where the sum of i + j + k is not equal to n.
