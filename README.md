@@ -21,3 +21,5 @@
 0x09-nested_lists.py - Given the names and grades for each student in a class of students, store them in a nested list and print the name(s) of any student(s) having the second lowest grade. Note: If there are multiple students with the second lowest grade, order their names alphabetically and print each name on a new line.
 
 0x10-find_percentage.py- The provided code stub will read in a dictionary containing key/value pairs of name:[marks] for a list of students. Print the average of the marks array for the student name provided, showing 2 places after the decimal.
+
+0x11-lists.py - Consider a list (list = []). You can perform the following commands: insert i e: Insert e integer at position i. print: Print the list. remove e: Delete the first occurrence of integer e. append e: Insert integer e at the end of the list. sort: Sort the list. pop: Pop the last element from the list. reverse: Reverse the list.
