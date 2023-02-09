@@ -15,3 +15,7 @@
 0x06-print_string.py The included code stub will read an integer, n, from STDIN. Without using any string methods, try to print the following: 123...n. Note that "..." represents the consecutive values in between.
 
 0x07-list_comprehension.py - Let's learn about list comprehensions! You are given three integers x, y and z representing the dimensions of a cuboid along with an integer n. Print a list of all possible coordinates given by (i, j, k) on a 3D grid where the sum of i + j + k is not equal to n.
+
+0x08-runner_up.py - Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given scores. Store them in a list and find the score of the runner-up.
+
+0x09-nested_loop.py - Given the names and grades for each student in a class of students, store them in a nested list and print the name(s) of any student(s) having the second lowest grade. Note: If there are multiple students with the second lowest grade, order their names alphabetically and print each name on a new line.
