@@ -31,3 +31,6 @@ prices = [6, 7, 8, 2, 9]
 print(maxProfit(prices))
 prices2 = [9, 8, 7, 6, 2]
 print(maxProfit(prices2))
+
+# string = 'somestuff'
+# print(string[::-1])
